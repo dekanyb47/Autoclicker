@@ -10,6 +10,9 @@ To customize the keybinds or the CPS (clicks per second), modify the variables s
 
 ```bash
 pip install keyboard
+```
+
+```bash
 pip install pywin32
 ```
 
